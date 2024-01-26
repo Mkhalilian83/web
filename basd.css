@@ -1,0 +1,27 @@
+@font-face{
+   font-family:Shabnam;
+   src: url(font/Shabnam.woff2);
+}
+body{
+   background-image:url('photo/large_7a2b29a2-4555-495a-a081-e63e0edc0836.webp');
+   background-size: 1750px;
+   font-family: Shabnam;
+}
+div.div1{
+   color: rgb(60, 55, 99);
+}
+body{
+   direction:rtl;
+  }
+   img{
+   width: 200px;
+    height: 200px;
+    border-radius: 14px;
+  }
+  
+  p.div4{
+   color: rgb(206, 136, 110);
+  }
+p.div5{
+   color: rgb(245, 123, 22);
+}
